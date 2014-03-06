@@ -1,0 +1,132 @@
+{
+  "id" : "commons-logging",
+  "info" : { },
+  "attributes" : {
+    "organization" : [ "commons-logging" ],
+    "name" : [ "commons-logging" ],
+    "version" : [ "1.1.1" ]
+  },
+  "configurations" : [ {
+    "id" : "runtime",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "commons-logging" ],
+      "name" : [ "commons-logging" ],
+      "version" : [ "1.1.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "javadoc",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "commons-logging" ],
+      "name" : [ "commons-logging" ],
+      "version" : [ "1.1.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "provided",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "commons-logging" ],
+      "name" : [ "commons-logging" ],
+      "version" : [ "1.1.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "optional",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "commons-logging" ],
+      "name" : [ "commons-logging" ],
+      "version" : [ "1.1.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "sources",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "commons-logging" ],
+      "name" : [ "commons-logging" ],
+      "version" : [ "1.1.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "test",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "commons-logging" ],
+      "name" : [ "commons-logging" ],
+      "version" : [ "1.1.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "master",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ {
+      "hash" : "ce6f913cad1f0db3aad70186d65c5bc7ffcc9a99e3fe8e0b137312819f7c362f",
+      "attributes" : {
+        "configurations" : [ "master" ]
+      },
+      "filename" : "commons-logging-1.1.1.jar"
+    } ],
+    "attributes" : {
+      "organization" : [ "commons-logging" ],
+      "name" : [ "commons-logging" ],
+      "version" : [ "1.1.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "compile",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "commons-logging" ],
+      "name" : [ "commons-logging" ],
+      "version" : [ "1.1.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "default",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ {
+      "hash" : "ce6f913cad1f0db3aad70186d65c5bc7ffcc9a99e3fe8e0b137312819f7c362f",
+      "attributes" : {
+        "configurations" : [ "master" ]
+      },
+      "filename" : "commons-logging-1.1.1.jar"
+    } ],
+    "attributes" : {
+      "organization" : [ "commons-logging" ],
+      "name" : [ "commons-logging" ],
+      "version" : [ "1.1.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "system",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "commons-logging" ],
+      "name" : [ "commons-logging" ],
+      "version" : [ "1.1.1" ]
+    },
+    "requirements" : [ ]
+  } ]
+}
